@@ -1,7 +1,7 @@
 Hello there👋! Welcome to my GitHub Portfolio
 
 ## A Bit About Myself
-My Name is Shidan Javaheri, and I grew up in Zambia, where I completed the IB program with 45 points 💯. I am now a student at McGill University in the Software Engineering Co-op program 💻
+My Name is Shidan Javaheri, and I grew up in Zambia, where I completed the IB program with 45 points 💯. I am now a student at McGill University in the Software Engineering Co-op program 💻. I have also obtained 25+ Civil Engineering Credits 🏗️
 - I consider myself to be a disciplined, dedicated and enthusiastic software engineering student with experience and great interest in Security 🔒, Machine Learning 🤖, and Cloud Development ☁️.
 - I am aspiring to a technically challenging and cutting-edge career that allows me to significantly contribute to the progress of technology
 - I am committed to a systematic process unfolding at the grassroots around the world to build vibrant communities and a better society
