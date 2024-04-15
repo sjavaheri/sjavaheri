@@ -14,6 +14,7 @@ Here is a list of a few projects I am proud of!
 - Operating Systems ⚙️ - Three projects in C, including multi-processing and pipeing to build a custom terminal, multi-processing to create a task scheduler, and designing and building a custom file system. GitHub repository coming soon! Requesting permisison from instructor
 - SearchScripting 🔍- An application to streamline the search through messages of the Universal House of Justice (see [here](https://www.bahai.org/library/authoritative-texts/the-universal-house-of-justice/messages/)). Built in response to a need I saw in my community. GitHub repository coming soon!
 - [Fire Fighting Robot](https://github.com/sjavaheri/SouvlakiSensors) 🔥- Python code to control a robot built with the Brick Pi with Lego, Lego motors, and Lego color sensors
+- [Software Validation](https://github.com/sjavaheri/SoftwareValidation) 🏁 - Spring Boot Application to write unit tests, functional tests, and performance tests for a dummy application (average grade of 100%)
 
 
 
