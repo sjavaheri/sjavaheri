@@ -27,7 +27,7 @@ Most of my software development experience is with proprietary, closed-source pr
 - [Circuit Simulation](https://github.com/sjavaheri/CircuitSimulation) 🔌 - An approach using MatLab and Monte Carlo simulation and polynomial chaos to simulate the behavior of a simple circuit
 
 ## Open Source Libraries and Contributions
-During my recent internship at Autodesk in Machine Learning, I worked closely with agentic workflows and MCP servers. I closely followed the developement of Amazon Strands from the day it was released, and contributed suggestions and feedback to the way it orchestrates multi agent workflows
+During my recent internship at Autodesk in Machine Learning, I worked closely with agentic workflows and MCP servers. I closely followed the development of Amazon Strands from the day it was released, and contributed suggestions and feedback to the way it orchestrates multi-agent workflows
 
 <!--
 **sjavaheri/sjavaheri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
