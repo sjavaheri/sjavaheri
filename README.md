@@ -19,12 +19,12 @@ Most of my software development experience is with proprietary, closed-source pr
   - Heavily implicated in architectural and technical upgrades to source and test code for both business methods and security systems of 3 large legal applications
 
 ## Research Projects
-- [Existing Defenses Against Distillation Attacks Fail To Prevent Stealing Reasoning](https://github.com/sjavaheri/treason) 🛡️
+- Existing Defenses Against Distillation Attacks Fail To Prevent Stealing Reasoninghttps://github.com/sjavaheri/treason 🛡️
   - Master's Thesis with OATML under the supervision of Yonatan Gideoni and Yarin Gal. Code to be released soon.
   - Paper in the Technical AI Governance Research workshop @ ICML 2026
-- [Exploring the Effect of Geometric Information on Message Passing]() 📈
+- Exploring the Effect of Geometric Information on Message Passing 📈
   - Comparing 5 of the most popular GNN architectures for molecular property prediction, and examining how their different uses of geometric information affect message passing
-- [Extending Deep Bayesian Active Learning with Image Data](https://github.com/sjavaheri/active_learning_images) 🖼️
+- Extending Deep Bayesian Active Learning with Image Data 🖼️
   - Replicating the results of work with the same title [see here](https://arxiv.org/abs/1703.02910), clarifying minor errors, and running additional experiments
 - [ImagiNeuron - Machine Intelligence for Neuron Detection (MIND)](https://github.com/ImagiNeuron) 📷
   - An 8-month research project to develop a cutting-edge approach to automatically label and visualize 3D high-resolution images of neurons in the brains of rats. We are preparing a paper for submission to IEEE Transactions on Image Processing, entitled "A Platform for the Semi-automatic Segmentation, Characteristic Shape Analysis and Simulation of Neuronal Somas"
