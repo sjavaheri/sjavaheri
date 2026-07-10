@@ -25,7 +25,7 @@ Most of my software development experience is with proprietary, closed-source pr
 - Exploring the Effect of Geometric Information on Message Passing 📈
   - Comparing 5 of the most popular GNN architectures for molecular property prediction, and examining how their different uses of geometric information affect message passing
 - Extending Deep Bayesian Active Learning with Image Data 🖼️
-  - Replicating the results of work with the same title [see here](https://arxiv.org/abs/1703.02910), clarifying minor errors, and running additional experiments
+  - Replicating the results of work with the same title ([see here](https://arxiv.org/abs/1703.02910)), clarifying minor errors, and running additional experiments
 - [ImagiNeuron - Machine Intelligence for Neuron Detection (MIND)](https://github.com/ImagiNeuron) 📷
   - An 8-month research project to develop a cutting-edge approach to automatically label and visualize 3D high-resolution images of neurons in the brains of rats. We are preparing a paper for submission to IEEE Transactions on Image Processing, entitled "A Platform for the Semi-automatic Segmentation, Characteristic Shape Analysis and Simulation of Neuronal Somas"
   - [Applied Machine Learning](https://github.com/sjavaheri/AppliedMachineLearning) 🤖 - A collection of 4 machine learning projects and papers, with high-quality writing and results (average grade of 97%)
