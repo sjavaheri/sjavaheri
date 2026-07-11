@@ -1,6 +1,6 @@
 # Introduction
 
-- 👋 Shidan Javaheri - Zambian 🇿🇲 | Canadian 🇨🇦
+- Zambian 🇿🇲 | Canadian 🇨🇦
 - Bachelor's of Software Engineering Co-op, McGill University, 2025 🏫
 - MSc in Advanced Computer Science (Artificial Intelligence), University of Oxford, 2026. Thesis in AI Safety 🏰
 - Passionate about building safe AI systems that are conscious of the fundamental assumptions underlying them 🏗️
@@ -19,7 +19,7 @@ Most of my software development experience is with proprietary, closed-source pr
   - Heavily implicated in architectural and technical upgrades to source and test code for both business methods and security systems of 3 large legal applications
 
 ## Research Projects
-- Existing Defenses Against Distillation Attacks Fail To Prevent Stealing Reasoninghttps://github.com/sjavaheri/treason 🛡️
+- Existing Defenses Against Distillation Attacks Fail To Prevent Stealing Reasoning 🛡️
   - Master's Thesis with OATML under the supervision of Yonatan Gideoni and Yarin Gal. Code to be released soon.
   - Paper in the Technical AI Governance Research workshop @ ICML 2026
 - Exploring the Effect of Geometric Information on Message Passing 📈
