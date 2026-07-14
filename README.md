@@ -1,10 +1,15 @@
 # Introduction
 
+## Background 
 - Zambian 🇿🇲 | Canadian 🇨🇦
-- Bachelor's of Software Engineering Co-op, McGill University, 2025 🏫
-- MSc in Advanced Computer Science (Artificial Intelligence), University of Oxford, 2026. Thesis in AI Safety 🏰
 - Passionate about building safe AI systems that are conscious of the fundamental assumptions underlying them 🏗️
 - Committed to a systematic process unfolding at the grassroots around the world to build vibrant communities and a better society 🌱
+
+## Education
+- Bachelor's of Software Engineering Co-op, McGill University, 2025 (3.99/4.0) 🏫
+- MSc in Advanced Computer Science (Artificial Intelligence), University of Oxford, 2026 (Distinction) 🏰
+  - Thesis in AI safety 🔒
+
 
 ## Work Experience
 
@@ -20,15 +25,15 @@ Most of my software development experience is with proprietary, closed-source pr
 
 ## Research Projects
 - Existing Defenses Against Distillation Attacks Fail To Prevent Stealing Reasoning 🛡️
-  - Master's Thesis with OATML under the supervision of Yonatan Gideoni and Yarin Gal. Code to be released soon.
+  - Master's Thesis at Oxford with OATML under the supervision of Yarin Gal. Code to be released soon.
   - Paper in the Technical AI Governance Research workshop @ ICML 2026
-- Exploring the Effect of Geometric Information on Message Passing 📈
-  - Comparing 5 of the most popular GNN architectures for molecular property prediction, and examining how their different uses of geometric information affect message passing
-- Extending Deep Bayesian Active Learning with Image Data 🖼️
-  - Replicating the results of work with the same title ([see here](https://arxiv.org/abs/1703.02910)), clarifying minor errors, and running additional experiments
+- [Exploring the Effect of Geometric Information on Message Passing](https://github.com/sjavaheri/geometric_message_passing) 📈
+  - Comparing 5 of the most popular GNN architectures for molecular property prediction, and examining how their different uses of geometric information affect message passing ([paper](https://github.com/sjavaheri/geometric_message_passing/blob/main/paper.pdf))
+- [Extending Deep Bayesian Active Learning with Image Data](https://github.com/sjavaheri/active_learning_images) 🖼️
+  - Replicating the results of work with the same title ([see here](https://arxiv.org/abs/1703.02910)), clarifying minor errors, and running additional experiments ([paper](https://github.com/sjavaheri/active_learning_images/blob/main/paper.pdf))
 - [ImagiNeuron - Machine Intelligence for Neuron Detection (MIND)](https://github.com/ImagiNeuron) 📷
   - An 8-month research project to develop a cutting-edge approach to automatically label and visualize 3D high-resolution images of neurons in the brains of rats. We are preparing a paper for submission to IEEE Transactions on Image Processing, entitled "A Platform for the Semi-automatic Segmentation, Characteristic Shape Analysis and Simulation of Neuronal Somas"
-  - [Applied Machine Learning](https://github.com/sjavaheri/AppliedMachineLearning) 🤖 - A collection of 4 machine learning projects and papers, with high-quality writing and results (average grade of 97%)
+- [Applied Machine Learning](https://github.com/sjavaheri/AppliedMachineLearning) 🤖 - A collection of 4 machine learning projects and papers, with high-quality writing and results (average grade of 97%)
 - [Bias in Natural Language Inference Systems](https://github.com/sjavaheri/gender_bias_nli) 📘
   - A project investigating gender bias in Natural Language Inference systems in a more nuanced and novel way ([see paper](https://github.com/sjavaheri/gender_bias_nli/blob/master/COMP_550_Final_Project.pdf))
 
