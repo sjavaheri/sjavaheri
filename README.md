@@ -24,7 +24,7 @@ Most of my software development experience is with proprietary, closed-source pr
   - Heavily implicated in architectural and technical upgrades to source and test code for both business methods and security systems of 3 large legal applications
 
 ## Research Projects
-- Existing Defenses Against Distillation Attacks Fail To Prevent Stealing Reasoning 🛡️
+- Existing Defenses Against Distillation Attacks Break After Reinforcement Learning 🛡️
   - Master's Thesis at Oxford with OATML under the supervision of Yarin Gal. Code to be released soon.
   - Paper in the Technical AI Governance Research workshop @ ICML 2026
 - [Exploring the Effect of Geometric Information on Message Passing](https://github.com/sjavaheri/geometric_message_passing) 📈
@@ -39,11 +39,11 @@ Most of my software development experience is with proprietary, closed-source pr
 
 ## Software Projects
 - [Purposeful](https://github.com/sjavaheri/Purposeful) 🤔
-  - An application to encourage students to collaborate on ideas that are purposeful, and address needs in their community
+  - An application to encourage students to collaborate on ideas that are purposeful and address needs in their community
 - [Mesmorize](https://github.com/sjavaheri/Mesmorize) 🧠
   - An application to help people with memorization. Built in response to a need I saw in my community
 - Operating Systems ⚙️
-  - Three projects in C, including multi-processing and pipeing to build a custom terminal, multi-processing to create a task scheduler, and designing and building a custom file system. Did not receive permission to release code
+  - Three projects in C, including multi-processing and piping to build a custom terminal, multi-processing to create a task scheduler, and designing and building a custom file system. Did not receive permission to release code
 - SearchScripting 🔍
   - An application to streamline the search through messages of the Universal House of Justice (see [here](https://www.bahai.org/library/authoritative-texts/the-universal-house-of-justice/messages/)). Built in response to a need I saw in my community. GitHub repository coming soon!
 - [Fire Fighting Robot](https://github.com/sjavaheri/SouvlakiSensors) 🔥
@@ -54,7 +54,7 @@ Most of my software development experience is with proprietary, closed-source pr
   - An approach using MatLab and Monte Carlo simulation and polynomial chaos to simulate the behavior of a simple circuit
 
 ## Open Source Libraries and Contributions
-During my recent internship at Autodesk in Machine Learning, I worked closely with agentic workflows and MCP servers. I closely followed the development of Amazon Strands from the day it was released, and contributed suggestions and feedback to the way it orchestrates multi-agent workflows
+During my recent internship at Autodesk in Machine Learning, I worked closely with agentic workflows and MCP servers. I closely followed the development of Amazon Strands from the day it was released, and contributed suggestions and feedback on how it orchestrates multi-agent workflows
 
 <!--
 **sjavaheri/sjavaheri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
