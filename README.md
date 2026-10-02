@@ -10,7 +10,6 @@
 - MSc in Advanced Computer Science (Artificial Intelligence), University of Oxford, 2026 (Distinction) 🏰
   - Thesis in AI safety 🔒
 
-
 ## Work Experience
 
 Most of my software development experience is with proprietary, closed-source production code that I cannot share. This was over the course of 4 internships in Industry: 
@@ -24,9 +23,12 @@ Most of my software development experience is with proprietary, closed-source pr
   - Heavily implicated in architectural and technical upgrades to source and test code for both business methods and security systems of 3 large legal applications
 
 ## Research Projects
-- Existing Defenses Against Distillation Attacks Break After Reinforcement Learning 🛡️
-  - Master's Thesis at Oxford with OATML under the supervision of Yarin Gal. Code to be released soon.
-  - Paper in the Technical AI Governance Research workshop @ ICML 2026
+- Distillation Defenses Easily Break After Reinforcement Learning 🛡️
+  - Master's Thesis at Oxford with OATML under the supervision of Yarin Gal
+  - [Paper](https://openreview.net/pdf?id=hEVdgP8J7z) in the Technical AI Governance Research workshop @ ICML 2026
+  - [Paper](https://arxiv.org/pdf/2609.35699) submitted to ICLR 2027
+  - [Twitter release](https://x.com/shidan_javaheri/status/2105349479868281201)
+  - [Code](https://github.com/sjavaheri/treason)
 - [Exploring the Effect of Geometric Information on Message Passing](https://github.com/sjavaheri/geometric_message_passing) 📈
   - Comparing 5 of the most popular GNN architectures for molecular property prediction, and examining how their different uses of geometric information affect message passing ([paper](https://github.com/sjavaheri/geometric_message_passing/blob/main/paper.pdf))
 - [Extending Deep Bayesian Active Learning with Image Data](https://github.com/sjavaheri/active_learning_images) 🖼️
@@ -37,7 +39,7 @@ Most of my software development experience is with proprietary, closed-source pr
 - [Bias in Natural Language Inference Systems](https://github.com/sjavaheri/gender_bias_nli) 📘
   - A project investigating gender bias in Natural Language Inference systems in a more nuanced and novel way ([see paper](https://github.com/sjavaheri/gender_bias_nli/blob/master/COMP_550_Final_Project.pdf))
 
-## Software Projects
+## Software Projects (Pre LLM Era)
 - [Purposeful](https://github.com/sjavaheri/Purposeful) 🤔
   - An application to encourage students to collaborate on ideas that are purposeful and address needs in their community
 - [Mesmorize](https://github.com/sjavaheri/Mesmorize) 🧠
